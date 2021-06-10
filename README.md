@@ -19,5 +19,7 @@ Se tomaron varias decisiones en base a los requerimientos del documento.
 
   Esta misma logica se utiliza cuando el ejercito perdedor pierde las dos unidades con mas puntaje.
   
-* Se implementaron test para los casos basicos e indispensables, podrian cubrirse mas casos.  
+* Se implementaron test para los casos basicos e indispensables, podrian cubrirse mas casos.
+
+* Se decidio usar python simplemente porque permite programar en objetos comodamente y para cambiar un poco, ya que uso java todos los dias.
     
